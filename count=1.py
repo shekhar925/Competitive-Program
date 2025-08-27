@@ -1,6 +1,6 @@
 # count=1
 # while(count<12):
-#     print("tamish")
+#     print("shekhar")
 #     count=count+1
 
 
@@ -10,6 +10,7 @@
 #     if(n%i==0):
 #         print(i)
 #     i=i+1
+
 
 
 
